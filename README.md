@@ -1,2 +1,3 @@
 # dicee-flutter
-This is a simple project about dicee 
+This is repo test made it by maryam alkathiri
+
